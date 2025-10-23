@@ -26,9 +26,9 @@ document.body.insertAdjacentHTML('afterbegin', `
                 <nav class="nav-menu">
                     <a href="booster.html">❄️ 2026 윈터부스터</a>
                     <span style="border:1px solid #b0b0b0ff; height:20px; justify-items:center;" ></span>
-                    <a href="#flagship" class="nav-trigger">정규 프로그램</a>
+                    <a href="core.html" class="nav-trigger">정규 프로그램</a>
                     <a href="#about">워크숍</a>
-                    <a href="#about">캠퍼스 찾기</a>
+                    <a href="campus.html">캠퍼스 찾기</a>
                 </nav>
                 <div>
                      <button id="category-button" class="btn-category">
@@ -55,7 +55,7 @@ document.body.insertAdjacentHTML('afterbegin', `
                         <div class="campus"> <h6>초등관</h6> 
                             <ul> 
                                 <li><a href="#kinder">BASE | 예비초 ~ 2학년</a></li> 
-                                <li><a href="#kinder">CORE | 초등 2 ~ 5학년</a></li> 
+                                <li><a href="core.html">CORE | 초등 2 ~ 5학년</a></li> 
                                 <li><a href="#kinder">NEXT | 초등 5 ~ 6학년</a></li> 
                             </ul>
                         </div>
@@ -128,7 +128,7 @@ document.body.insertAdjacentHTML('afterbegin', `
                             </a>
                         </li>
                         <li>
-                            <a href="#kinder" class="menu-link">
+                            <a href="core.html" class="menu-link">
                             <span>CORE | 초등 2 ~ 5학년</span>
                             </a>
                         </li>
@@ -191,7 +191,7 @@ document.body.insertAdjacentHTML('afterbegin', `
                             </a>
                         </li>
                         <li>
-                            <a href="#kinder" class="menu-link">
+                            <a href="https://tr.ee/epic-yc-feedback" class="menu-link">
                             <span>에픽에 바란다</span>
                             </a>
                         </li>
