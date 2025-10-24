@@ -15,7 +15,7 @@ document.body.insertAdjacentHTML('afterbegin', `
                     <span class="divider"></span>
                     <li><a href="https://tr.ee/epic-yc-feedback">에픽에 바란다</a></li>
                     <span class="divider"></span>
-                    <li><a href="campus.html">블로그</a></li>
+                    <li><a href="https://blog.naver.com/epiclang">블로그</a></li>
                     <span class="divider"></span>
                     <li><a href="campus.html">온라인 도서관</a></li>
                 </ul>
@@ -47,7 +47,7 @@ document.body.insertAdjacentHTML('afterbegin', `
                     <div class="desktop-menu-grid">
                         <div class="campus"> <h6>킨더관</h6> 
                             <ul> 
-                                <li><a href="#kinder">(준비중)</a></li> 
+                                <li>(준비중)</li> 
                                 <li><a href="#kinder">&nbsp</a></li> 
                                 <li><a href="#kinder">&nbsp</a></li> 
                             </ul>
