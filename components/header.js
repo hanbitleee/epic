@@ -54,14 +54,14 @@ document.body.insertAdjacentHTML('afterbegin', `
                         </div>
                         <div class="campus"> <h6>초등관</h6> 
                             <ul> 
-                                <li><a href="#kinder">BASE | 예비초 ~ 2학년</a></li> 
+                                <li><a href="base.html">BASE | 예비초 ~ 2학년</a></li> 
                                 <li><a href="core.html">CORE | 초등 2 ~ 5학년</a></li> 
-                                <li><a href="#kinder">NEXT | 초등 5 ~ 6학년</a></li> 
+                                <li><a href="next.html">NEXT | 초등 5 ~ 6학년</a></li> 
                             </ul>
                         </div>
                         <div class="campus"> <h6>중등관</h6> 
                             <ul> 
-                                <li><a href="#kinder">(준비중)</a></li> 
+                                <li>(준비중)</li> 
                                 <li><a href="#kinder">&nbsp</a></li> 
                                 <li><a href="#kinder">&nbsp</a></li> 
                             </ul>
@@ -123,7 +123,7 @@ document.body.insertAdjacentHTML('afterbegin', `
                         <h3 class="menu-group-title">초등관</h3>
                         <ul class="menu-group-list">
                         <li>
-                            <a href="#kinder" class="menu-link">
+                            <a href="base.html" class="menu-link">
                             <span>BASE | 예비초 ~ 2학년</span>
                             </a>
                         </li>
@@ -133,7 +133,7 @@ document.body.insertAdjacentHTML('afterbegin', `
                             </a>
                         </li>
                         <li>
-                            <a href="#kinder" class="menu-link">
+                            <a href="next.html" class="menu-link">
                             <span>NEXT | 초등 5 ~ 6학년</span>
                             </a>
                         </li>
@@ -153,17 +153,17 @@ document.body.insertAdjacentHTML('afterbegin', `
                         <h3 class="menu-group-title">특별 프로그램</h3>
                         <ul class="menu-group-list">
                         <li>
-                            <a href="#kinder" class="menu-link">
+                            <a href="booster.html" class="menu-link">
                             <span>썸머부스터</span>
                             </a>
                         </li>
                         <li>
-                            <a href="#kinder" class="menu-link">
+                            <a href="booster.html" class="menu-link">
                             <span>윈터부스터</span>
                             </a>
                         </li>
                         <li>
-                            <a href="#kinder" class="menu-link">
+                            <a href="#" class="menu-link">
                             <span>워크숍</span>
                             </a>
                         </li>
@@ -171,7 +171,7 @@ document.body.insertAdjacentHTML('afterbegin', `
                     <div class="menu-group">
                         <ul class="menu-group-list">
                             <li>
-                                <a href="#kinder" class="menu-link">
+                                <a href="https://blog.naver.com/epiclang" class="menu-link">
                                 <span>블로그</span>
                                 </a>
                             </li>
@@ -186,17 +186,17 @@ document.body.insertAdjacentHTML('afterbegin', `
                             </a>
                         </li>
                         <li>
-                            <a href="#kinder" class="menu-link">
+                            <a href="#" class="menu-link">
                             <span>고객센터</span>
                             </a>
                         </li>
                         <li>
-                            <a href="#kinder" class="menu-link">
+                            <a href="https://tyf30bc2.forms.app/epicyeouidofeedback" class="menu-link">
                             <span>에픽에 바란다</span>
                             </a>
                         </li>
                         <li>
-                            <a href="#kinder" class="menu-link">
+                            <a href="#" class="menu-link">
                             <span>자주 묻는 질문</span>
                             </a>
                         </li>
