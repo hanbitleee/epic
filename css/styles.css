@@ -1281,7 +1281,7 @@ margin: 11rem auto 0rem;
 .key-container img{width: 200px; padding: 0 10px 30px;}
 .key-container{
   height: 780px;
-  background: url(/assets/00.main/key-bg-mobile.svg) no-repeat center center, linear-gradient(180deg,#f1e9f3, #dbe3f9, #ffffff);
+  background: url(../assets/00.main/key-bg-mobile.svg) no-repeat center center, linear-gradient(180deg,#f1e9f3, #dbe3f9, #ffffff);
     background-size: auto 100%;    /* 세로 100% 맞추기 = 위/아래 절대 안 잘림 */
 
 }
