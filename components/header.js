@@ -24,8 +24,8 @@ document.body.insertAdjacentHTML('afterbegin', `
             <div class="header-inner">
                 <a href="index.html" class="logo"><img src="assets/ELA-text-logo-blacktext.png" alt="Epic English Logo"></a>
                 <nav class="nav-menu">
-                    <a href="booster.html">❄️ 2026 윈터부스터</a>
-                    <span style="border:1px solid #767676; height:18px; margin-top:3px;" ></span>
+                    <a href="booster.html">❄️ 2026 윈터부스터</a>|
+                    <!--span style="border:1px solid #767676; height:18px; margin-top:3px;" ></span-->
                     <a href="core.html" class="nav-trigger">정규 프로그램</a>
                     <a href="#about">워크숍</a>
                     <a href="campus.html">캠퍼스 찾기</a>
