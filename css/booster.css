@@ -114,7 +114,7 @@ html {
   padding: 120px 0;
   gap: 20px;
   margin: 0 auto;
-  background: url(/assets/sub/hero-booster-bg.svg) no-repeat;
+  background: url("../assets/sub/hero-booster-bg.svg") no-repeat;
   background-size: contain;
 }
 
