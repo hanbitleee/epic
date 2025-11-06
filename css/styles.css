@@ -349,7 +349,7 @@ div{
   background:
   linear-gradient(#fff) padding-box,
   linear-gradient(90deg, #3182F6, #5309FF) border-box;
-  padding: 50px;
+  padding: 46px;
   border-radius: 20px;
   display: flex;
   flex-direction: row; /* center horizontally (optional) */
@@ -1122,7 +1122,7 @@ div{
   background:
   linear-gradient(#fff) padding-box,
   linear-gradient(90deg, #3182F6, #5309FF) border-box;
-  padding: 28px 24px;
+  padding: 28px 18px;
   border-radius: 20px;
   gap: 30px;        
   width: 800px;
